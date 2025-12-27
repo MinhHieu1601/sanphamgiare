@@ -14,12 +14,12 @@ Sanphamgiare.com là nền tảng chuyên cung cấp các dịch vụ và sản 
 
 | Danh mục | Sản phẩm |
 |----------|----------|
-| 🎬 Video | CapCut Pro, YouTube Premium |
-| 🎵 Âm nhạc | Spotify Premium |
-| 🎨 Thiết kế | Canva Pro, Adobe |
-| 🤖 AI | ChatGPT Plus, Claude AI, Grok |
-| 📚 Học tập | Duolingo, ELSA |
-| 📺 Giải trí | Netflix, VIEON VIP |
+| ☁️ Video | CapCut Pro, YouTube Premium |
+| ☁️ Âm nhạc | Spotify Premium |
+| ☁️ Thiết kế | Canva Pro, Adobe |
+| ☁️ AI | ChatGPT Plus, Claude AI, Grok |
+| ☁️ Học tập | Duolingo, ELSA |
+| ☁️ Giải trí | Netflix, VIEON VIP |
 | ☁️ Lưu trữ | Google One |
 
 ## 📞 Liên hệ
