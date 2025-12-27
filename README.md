@@ -1,4 +1,4 @@
-# 🛒 Sản Phẩm Giá Rẻ
+# Sản Phẩm Giá Rẻ
 
 **Giải pháp dịch vụ số giá rẻ**
 
